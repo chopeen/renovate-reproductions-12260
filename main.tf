@@ -1,6 +1,6 @@
 module "avm_res_operationalinsights_workspace" {
   source                                    = "Azure/avm-res-operationalinsights-workspace/azurerm"
-  version                                   = "0.4.0"
+  version                                   = "0.4.1"
   location                                  = "eu-north"
   resource_group_name                       = "dummy-rg"
   name                                      = "dummy-name"
