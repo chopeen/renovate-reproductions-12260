@@ -1,1 +1,6 @@
-{}
+{
+    {
+      "matchDatasources": ["terraform-provider"],
+      "registryUrls": ["https://registry.opentofu.org"]
+    }
+}
